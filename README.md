@@ -5,3 +5,5 @@
 
 2.Stack use
 
+
+3.Dynamic Stack
